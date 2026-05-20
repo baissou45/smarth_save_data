@@ -1,8 +1,9 @@
+import os
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from huggingface_hub import login
 
 # Authentifiez-vous avec votre token Hugging Face
-login(token="REMOVED")
+login(token=os.environ.get("HF_TOKEN", ""))  # set HF_TOKEN env var
 
 # Charger le modèle et le tokenizer
 model_name = "mistralai/Mistral-7B-v0.1"
