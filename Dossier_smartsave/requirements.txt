@@ -1,0 +1,14 @@
+# --- Manipulation des Données & Mathématiques ---
+numpy>=1.22.4
+pandas>=1.4.2
+
+# --- Visualisation des Données ---
+matplotlib>=3.5.2
+seaborn>=0.11.2
+
+# --- Machine Learning Traditionnel ---
+scikit-learn>=1.0.2
+xgboost>=1.6.1
+
+# --- Deep Learning (Modèles LSTM & Attention) ---
+tensorflow>=2.9.1

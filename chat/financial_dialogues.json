@@ -1,0 +1,18 @@
+[
+    {
+        "input": "Quelles ont \u00e9t\u00e9 mes entr\u00e9es pour le mois 2024-01 ?",
+        "output": "Pour le mois 2024-01, vos entr\u00e9es s'\u00e9l\u00e8vent \u00e0 500 USD."
+    },
+    {
+        "input": "Quelles ont \u00e9t\u00e9 mes d\u00e9penses pour le mois 2024-01 ?",
+        "output": "Pour le mois 2024-01, vos d\u00e9penses s'\u00e9l\u00e8vent \u00e0 350 USD."
+    },
+    {
+        "input": "Quelles ont \u00e9t\u00e9 mes entr\u00e9es pour le mois 2024-01 ?",
+        "output": "Pour le mois 2024-01, vos entr\u00e9es s'\u00e9l\u00e8vent \u00e0 300 USD."
+    },
+    {
+        "input": "Quelles ont \u00e9t\u00e9 mes d\u00e9penses pour le mois 2024-01 ?",
+        "output": "Pour le mois 2024-01, vos d\u00e9penses s'\u00e9l\u00e8vent \u00e0 100 USD."
+    }
+]
